@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/cheryl-pinto-868776335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cheryl-pinto-868776335" height="30" width="40" /></a>
 <a href="https://instagram.com/cherylpinto_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cherylpinto_" height="30" width="40" /></a>
-<a href="mailto:cherylblannypinto@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="cherylblannypinto@gmail.com" height="30" width="40" /></a>
+<a href="mailto:cherylblannypinto@gmail.com" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fvectors%2Femail%2F&psig=AOvVaw2o3qRbGpCFFi_xCsuYvtRo&ust=1743405555199000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPic2_ehsYwDFQAAAAAdAAAAABAE" alt="cherylblannypinto@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
