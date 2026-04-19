@@ -21,9 +21,10 @@
        alt="coding" width="220" style="margin-left: 20px;"/>
 </div>
 
-- 🎓 I’m a **Third Year B.Tech Computer Engineering Student**    
-- 🌐 Open Source Contributor at **GirlScript Summer of Code**
-- 🏆 EthGlobal Winner
+- 🎓 I’m a **Third Year B.Tech Computer Engineering Student**
+- 📚 Tech enthusiast building Full-Stack, AI/ML & Blockchain projects
+- 🌐 Open Source Contributor 
+- 🏆 2x hackathon winner
 
 ---
 
