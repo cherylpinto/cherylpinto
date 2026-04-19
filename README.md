@@ -22,8 +22,8 @@
 </div>
 
 - 🎓 I’m a **Third Year B.Tech Computer Engineering Student**    
-
-- 🌐 Open Source Contributor at **GirlScript Summer of Code**  
+- 🌐 Open Source Contributor at **GirlScript Summer of Code**
+- 🏆 EthGlobal Winner
 
 ---
 
