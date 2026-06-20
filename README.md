@@ -9,8 +9,10 @@
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cherylpinto_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cheryl-pinto-868776335) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cherylblannypinto@gmail.com) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cherylpinto_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cheryl-pinto-868776335)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cherylblannypinto@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://cherylpinto.vercel.app/)
 <!-- About Me section with animated GIF and short description -->
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h2>
